@@ -17,7 +17,7 @@ entity CCalculadora is port
 end entity;
 
 architecture calculadora of CCalculadora is 
-   signal registrador : std_logic_vector(23 downto 0) := "00000000000000000000000";
+   signal registrador : std_logic_vector(23 downto 0) := "000000000000000000000000";
    signal calc : integer;
    signal comand : integer;
 begin

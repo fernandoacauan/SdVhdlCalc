@@ -1,0 +1,57 @@
+/home/guilherme.langaro/Documents/SdVhdlCalc/display/modulo_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/guilherme.langaro/Documents/SdVhdlCalc/display/modulo_tb.vhd
+QuestaSim-64 vcom 2023.4 Compiler 2023.10 Oct  9 2023
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tbmodulo
+-- Compiling architecture modulo of tbmodulo
+-- Loading entity modulo
+
+} {} {}} /home/guilherme.langaro/Documents/SdVhdlCalc/display/decodificador_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/guilherme.langaro/Documents/SdVhdlCalc/display/decodificador_tb.vhd
+QuestaSim-64 vcom 2023.4 Compiler 2023.10 Oct  9 2023
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tbdecodificador
+-- Compiling architecture decod of tbdecodificador
+-- Loading entity ddecodificador
+
+} {} {}} /home/guilherme.langaro/Documents/SdVhdlCalc/display/display.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/guilherme.langaro/Documents/SdVhdlCalc/display/display.vhd
+QuestaSim-64 vcom 2023.4 Compiler 2023.10 Oct  9 2023
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ccontrolador
+-- Compiling architecture controlador of ccontrolador
+
+} {} {}} /home/guilherme.langaro/Documents/SdVhdlCalc/display/display_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/guilherme.langaro/Documents/SdVhdlCalc/display/display_tb.vhd
+QuestaSim-64 vcom 2023.4 Compiler 2023.10 Oct  9 2023
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tbcontrolador
+-- Compiling architecture controlador of tbcontrolador
+-- Loading entity ccontrolador
+
+} {} {}} /home/guilherme.langaro/Documents/SdVhdlCalc/display/Modulo.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/guilherme.langaro/Documents/SdVhdlCalc/display/Modulo.vhd
+QuestaSim-64 vcom 2023.4 Compiler 2023.10 Oct  9 2023
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity modulo
+-- Compiling architecture nome of modulo
+-- Loading entity ccontrolador
+
+} {} {}} /home/guilherme.langaro/Documents/SdVhdlCalc/display/decodificador.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/guilherme.langaro/Documents/SdVhdlCalc/display/decodificador.vhd
+QuestaSim-64 vcom 2023.4 Compiler 2023.10 Oct  9 2023
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ddecodificador
+-- Compiling architecture decodificador of ddecodificador
+-- Loading entity modulo
+
+} {} {}}
